@@ -67,10 +67,14 @@ Here we will discuss the resources you can use to make scientific diagrams when 
 
 - Repository of Scientific Illustrations: https://scidraw.io/
 - The Noun Project: https://thenounproject.com/
-- Bioicons: https://bioicons.com/ 
+- Bioicons: https://bioicons.com/
+- Healthicons: https://healthicons.org/
+- Smart Servier: https://smart.servier.com/
 - Freehand drawing using AutoDraw: https://www.autodraw.com/
 - BioArt by NIH: https://bioart.niaid.nih.gov/
-- PhyloPic: https://www.phylopic.org/ 
+- PhyloPic: https://www.phylopic.org/
+- Scidraw: https://scidraw.io/
+- Undraw: https://undraw.co/
 - Resource: https://r-graph-gallery.com/best-dataviz-packages.html
 - Reactome Icon library: https://reactome.org/icon-lib 
 
